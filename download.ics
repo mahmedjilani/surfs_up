@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:HALTON HONDA
+BEGIN:VEVENT
+UID:846B095E-3DE7-45C8-8962-B6B220237036
+DTSTAMP:20210803T075505
+DTSTART:20210807T110000
+DTEND:20210807T163000
+LOCATION:4100 Harvester Rd, Burlington, ON, L7L 0C1, CA
+SUMMARY:Service booking at HALTON HONDA
+DESCRIPTION:Your detailed information is as follows:\n\nDealership info: HA
+ LTON HONDA\n\nAppointment info:\nAdvisor: Jamal Sabri\nConfirmation code: X
+ 10GGQT122\n\nCustomer info:\nName: MOHAMMED JILANI\nPhone: 6475018079\n\nVe
+ hicle info: HONDA, CR-V, 2019\n\nService info:\nPackages: Minder Menu Combi
+ ned\n\n\nThanks for using Xtime's ServiceCRM\n
+STATUS:CONFIRMED
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
